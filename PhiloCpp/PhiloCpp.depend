@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576508251 source:c:\users\lenovo\desktop\c++\philocpp\main.cpp
+	<iostream>
+	<mutex>
+	<thread>
+	<sys/time.h>
+	<cstdlib>
+	<stdlib.h>
+	<windows.h>
+	<semaphore.h>
+
